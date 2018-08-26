@@ -6,5 +6,3 @@ document.getElementById("app").innerHTML = `
   for more info about Parcel.
 </div>
 `;
-
-const item = "sadsd";
